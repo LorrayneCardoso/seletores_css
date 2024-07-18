@@ -1,0 +1,7 @@
+a {
+    color:red ;
+}
+
+a:hover {
+    color: rgb(114, 252, 50);
+}

@@ -1,0 +1,12 @@
+p {
+    font-family: arial;
+}
+#paragrafo  {
+    font-weight: bold;
+}
+strong {
+    color: red;
+}
+em.destaque {
+    font-weight: bold;
+}
